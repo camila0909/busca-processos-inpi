@@ -1,4 +1,4 @@
-# analise-arquivos-xml
+# busca-processos-inpi
 Estudando o módulo  xml.etree.ElementTree para análise de arquivos .xml
 
 ## Sobre o arquivo .xml utilizado para este estudo:
